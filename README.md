@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArvidEllan
+- 👋 Hi, I’m Ellan
 - 👀 I’m interested in Devops , CyberSecurity & Cloud
 - 🌱 I’m currently learning Python, .Net ,PHP ,CI/CD 
 - 💞️ I’m looking to collaborate on projects or anything curious
