@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ellan a sysops Engineer/ cloud infrastructure architect 
+- 👋 Hi, I’m Ellan a DevOps Engineer/ cloud infrastructure architect 
 - 👀 I’m interested in Devops , CyberSecurity & Cloud
-- 🌱 I’m currently learning Python, .Net ,PHP ,CI/CD 
-- 💞️ I’m looking to collaborate on projects or anything curious
-- 📫 How to reach me  on gmail @ellanwambugu6@gmail.com , twitter user @0x3llan 
+- 🌱 I’m currently learning Python, .Net ,Golang ,CI/CD 
+- 💞️ I’m looking to collaborate on projects or anything curious to contribute on
+- 📫 How to reach me  on gmail @ellanwambugu6@gmail.com 
 
 <!---
 ArvidEllan/ArvidEllan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
