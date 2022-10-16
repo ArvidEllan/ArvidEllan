@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ellan a DevOps Engineer/ cloud infrastructure architect 
+- 👋 Hi, I’m Ellan - a DevOps Engineer/ cloud infrastructure architect 
 - 👀 I’m interested in Devops , CyberSecurity & Cloud
 - 🌱 I’m currently learning Python, .Net ,Golang and Automation 
 -  :cloud: Experience across Azure,AWS and GCP cloud vendors 
