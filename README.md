@@ -22,6 +22,8 @@
   
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvidEllan&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArvidEllan&theme=dark&background=000000)](https://git.io/streak-stats)
 
 - 📫 You can reach me via      
