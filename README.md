@@ -3,7 +3,11 @@
 - 🌱 I’m currently learning Python and Golang for Automation + Scala for data engineering
 -  :cloud: Experience across Azure,AWS and GCP cloud vendors 
 - 💞️ I’m looking to collaborate on projects or anything curious to contribute on/work on
-                                <div>
+                              
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvidEllan&hide_progress=true)
+
+  <div>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="Azure" width="40" height="80"/>&nbsp;
@@ -21,8 +25,6 @@
   
   
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvidEllan&hide_progress=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArvidEllan&theme=dark&background=000000)](https://git.io/streak-stats)
 
