@@ -7,6 +7,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvidEllan&hide_progress=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArvidEllan&show_icons=true&theme=dracula)
+
   <div>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="80"/>&nbsp;
