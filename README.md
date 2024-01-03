@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on projects or anything curious to contribute on/work on
                               
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvidEllan&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvidEllan&hide_progress=true)
 
 
 
